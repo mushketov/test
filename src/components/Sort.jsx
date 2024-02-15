@@ -2,7 +2,7 @@ import React from 'react'
 
 function Sort() {
 	return (
-		<div className='sort'>
+		<div className='sort test-comp'>
 			<div className='sort__label'>
 				<svg
 					width='10'
