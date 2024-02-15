@@ -1,6 +1,6 @@
 import React from 'react'
 
-function PizzaBlock({title, price}) {
+function PizzaBlock({title,price, test}) {
 	return (
 		<div className='pizza-block'>
 			<img
